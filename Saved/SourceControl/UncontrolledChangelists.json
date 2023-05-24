@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/Maps/Level1.umap",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_Consumable.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_NormalOrb.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_Phantoms.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_PowerUpOrb.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_Interchange.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_temp.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_Ghost.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_RedGhost.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_BlueGhost.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_OrangeGhost.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_PinkGhost.uasset",
+				"D:/Unreal Engine/UE_5.2/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/PowerUpOrb.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Phantoms.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Consumable.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/PowerUpOrb.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/Phantoms.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/NormalOrb.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/Consumable.uasset",
+				"C:/Users/caiom/Documents/Unreal Projects/PacManVR/Content/SceneObjects/Blueprints/BP_Phantom.uasset"
+			]
+		}
+	]
+}
